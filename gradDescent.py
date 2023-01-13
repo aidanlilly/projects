@@ -62,13 +62,3 @@ predict_y(4.3) #Predicting where 4.3 will fit amongst the known values from arra
 plt.plot(x, y, 'rx')#Show data
 plt.plot(x1,y1, '-b')
 plt.show()
-  </code>
-</pre>
-
-<style type="text/css">
-pre code {
-  background-color: #eee;
-  border: 1px solid #999;
-  display: block;
-  padding: 20px;
-}
